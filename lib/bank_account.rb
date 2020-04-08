@@ -1,3 +1,1 @@
-class BankAccount
 
-end
